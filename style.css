@@ -1,0 +1,26 @@
+h1{
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: antiquewhite;
+}
+
+body{
+    background-image: url("./avion.jpg");
+    background-size:cover;
+}
+
+h2,h3,h4,h5{
+    color: rgb(209, 134, 36);
+    font-size: 50px;
+}
+
+.hj{
+    color: rgb(0, 0, 0);
+    font-size:40px;
+}
+
+.vacio{
+    font-size: 30px;
+    text-align: left;
+    list-style: none;
+}
